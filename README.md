@@ -102,15 +102,12 @@ A custom-built Uber Web Application continuously generates ride booking events.
 
 These events are published to **Azure Event Hubs**, providing a scalable and fault-tolerant streaming ingestion layer.
 
-📷
 
-![Web App](images/webapp.png)
 
-↓
+![Web App To Event Hub](webtoEventhub.png)
 
-![Event Hub](images/eventhub.png)
 
----
+
 
 ## 2️⃣ Batch Data Source
 
