@@ -29,7 +29,7 @@ The project follows the **Medallion Architecture** and demonstrates industry-sta
 
 ## Overall Solution Architecture
 
-![Architecture](images/architecture.png)
+![Architecture](architecture.png)
 
 ---
 
