@@ -35,7 +35,7 @@ The project follows the **Medallion Architecture** and demonstrates industry-sta
 
 ## Databricks Declarative Pipeline
 
-![Pipeline Graph](images/pipeline_graph.png)
+![Pipeline Graph](pipeline_graph.png)
 
 ---
 
