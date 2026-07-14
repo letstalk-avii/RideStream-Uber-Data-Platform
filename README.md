@@ -1,6 +1,6 @@
 
 
-# 🚖 Uber Ride Streaming Pipeline on Azure
+# 🚖 RideStream: Uber Data Platform
 
 > **Production-inspired Real-Time Data Engineering Pipeline built using Azure Event Hubs, Azure Data Factory, Azure Databricks, Spark Structured Streaming, Delta Lake and Spark Declarative Pipelines (Lakeflow).**
 
