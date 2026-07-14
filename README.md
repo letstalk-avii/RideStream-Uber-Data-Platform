@@ -31,11 +31,6 @@ The project follows the **Medallion Architecture** and demonstrates industry-sta
 
 ![Architecture](Images/architecture.png)
 
----
-
-## Databricks Declarative Pipeline
-
-![Pipeline Graph](Images/databricks-declarative-pipeline.png)
 
 ---
 
@@ -132,6 +127,9 @@ Rather than hardcoding file names, the pipeline uses a **Lookup Activity** to re
 
 The returned file list is processed dynamically using a **ForEach Activity**, making the ingestion framework scalable and reusable.
 
+
+
+![ADF Pipeline](Images/adf_pipeline.png)
 
 ---
 
@@ -241,7 +239,7 @@ Spark Declarative Pipelines automatically orchestrate streaming transformations,
 
 
 
-![ADF Pipeline](Images/adf_pipeline.png)
+![Pipeline Graph](Images/databricks-declarative-pipeline.png)
 
 ---
 
