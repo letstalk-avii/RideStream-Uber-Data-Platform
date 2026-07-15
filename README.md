@@ -94,8 +94,17 @@ uber-real-time-data-engineering-pipeline
 │   ├── gold_layer.png
 │   ├── adf_pipeline.png
 │   ├── webtoEventhub.png
-│ 
 │
+├── templates
+│   ├── confirmation.html
+│   ├── home.html
+│  
+├── api.py
+├── connection.py
+├── data.py
+├── data_flow.png
+├── files_array.json
+│  
 └── README.md
 ```
 
